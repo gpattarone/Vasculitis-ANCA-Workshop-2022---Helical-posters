@@ -1,4 +1,4 @@
-# Vasculitis-ANCA-Workshop-2022---Helical-posters
+# Vasculitis-ANCA-Workshop-2022---HELICAL ESR 14 - Poster and abstract
 HELICAL project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 813545
 
 # Biomarker and clinical data linkage to determine the minimal mRNA set for vasculitis diagnosis
