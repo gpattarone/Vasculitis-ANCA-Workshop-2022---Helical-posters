@@ -25,3 +25,5 @@ A population characteristics description was performed considering a timeline co
 Conclusions:
 
 Integrative analysis of patient data with mRNA-based blood profiling using machine learning tools contribute to the characterization of vasculitis patients and improved definition of clinical remission in patients with AAV. Further studies are needed to validate and improve our precision medicine tool as a predictor of vasculitis relapse risk based on the BIOPRED mRNA candidates.
+
+[Poster PATTARONE ANCA Dublin.pdf](https://github.com/gpattarone/Vasculitis-ANCA-Workshop-2022---Helical-posters/files/8487512/Poster.PATTARONE.ANCA.Dublin.pdf)
